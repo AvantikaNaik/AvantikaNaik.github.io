@@ -1,9 +1,11 @@
-# Personal Website Resume - Avantika Naik
+# Personal Website Resume for Computer Science 
 
-Welcome to the source code for my personal website and blog!
 
-Edited by Avantika Naik from original by CEEVEE with KARDS from Styleshouts and Sunwoo Kang
+Edited by Sunwoo Kang
+Merged CEEVEE with KARDS from Styleshouts :) 
 
+
+For any questions on starting a personal website for resume, please contact swkang73@stanford.edu / sunnybd97@gmail.com. 
 
 SOURCES AND CREDITS:
 
@@ -25,5 +27,3 @@ Javascript Files:
  - Slick slider (http://kenwheeler.github.io/slick/)
  - Animate On Scroll (https://michalsnik.github.io/aos/)
  - PrismJS (https://prismjs.com/)
- 
- I found this code at: https://github.com/swkang73/swkang73.github.io
