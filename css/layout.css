@@ -126,7 +126,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: #68e1ff; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -148,7 +148,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #68e1ff; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -929,7 +929,7 @@ ul#nav li.current a { color: #d487f3; }
  * ------------------------------------------------------------------- 
  */
 #stats {
-  background: #11ABB0;
+  background: #68e1ff;
   padding-top: 7.2rem;
   padding-bottom: 6rem;
   text-align: center;
@@ -1037,7 +1037,7 @@ ul#nav li.current a { color: #d487f3; }
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: #68e1ff; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
