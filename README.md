@@ -5,7 +5,7 @@ Edited by Tika Naik
 Original by CEEVEE with KARDS from Styleshouts, with further edits from Sungwoo Kang :) 
 
 
-For any questions on starting a personal website for resume, please contact swkang73@stanford.edu / sunnybd97@gmail.com. 
+For any questions on starting a personal website for resume, please contact tikanaik@gmail.com / avantikn@andrew.cmu.edu. 
 
 SOURCES AND CREDITS:
 
